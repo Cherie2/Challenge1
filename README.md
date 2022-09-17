@@ -1,13 +1,9 @@
-# Challenge1
-Bootcamp first Challenge-Website
-
-# Horiseon Social Solution Services
+# Horiseon Social Solution Services-C01
 
 ## Motivation
 The motivation for this project is to improve upon a website that had a few bugs needing revision and required accessibility additions. The websites primary goal is to inform potential customers of the expertise of Horiseon Social Solution Services, Inc. The user will be able to clearly and concisely locate pertinent information for how Horiseon Social Solutions Services provides its clients' companies with improved marketability to reach target customers. 
 
 In completeing this project, I have learned how to improve upon code in HTML as far as following proper semantic structure, adding accessibility attributes, and organizing elements within CSS to run more efficiently.
-
 
 ![Horiseon](Assets\images\_C__Users_cwalk_bootcamp_First-day_index.html.png)
 
@@ -39,7 +35,6 @@ Resources of significance listed:
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 Special thanks to Ileriayo Adebiyi https://github.com/Ileriayo/markdown-badges#testing for his public library of common badges
-
 
 ## License
 Please refer to License file listed in repository.
