@@ -16,16 +16,16 @@ body {
     color: #ffffff;
 }
 /*class that selects headers(h1) font size and nav elements within to display inline*/ 
-h1 {
+.header h1 {
     display: inline-block;
     font-size: 48px;
 }
 /*class that selects the letters 'seo' color in header(h1)*/
-h1 .seo {
+.header h1 .seo {
     color: #d9dcd6;
 }
 /*class that selects nav elements font size, padding, margin, and font style in the header*/
-nav {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,7 +33,7 @@ nav {
     font-size: 25px;
 }
 /*class that selects header text to be displayed in line and next to header(h1)*/
-nav ul li  {
+.header nav ul li  {
     display: inline-block;
     margin-left: 25px;
     list-style-type: none;
