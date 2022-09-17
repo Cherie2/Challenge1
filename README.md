@@ -5,7 +5,7 @@ The motivation for this project is to improve upon a website that had a few bugs
 
 In completeing this project, I have learned how to improve upon code in HTML as far as following proper semantic structure, adding accessibility attributes, and organizing elements within CSS to run more efficiently.
 
-![Horiseon](Assets\images\_C__Users_cwalk_bootcamp_First-day_index.html.PNG)
+![Horiseon](Assets\images\_C__Users_cwalk_bootcamp_First-day_index.html.png)
 
 https://cherie2.github.io/Challenge1/
 
