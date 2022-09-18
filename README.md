@@ -9,9 +9,9 @@ In completeing this project, I have learned how to improve upon code in HTML as 
 
 
 ## Changes
-   *Revised index.html file to follow proper semantic structure
-   *Revised redundant CSS elements and commented changes
-   *Addition of alt attribute to images to meet accessibility standards
+   * Revised index.html file to follow proper semantic structure
+   * Revised redundant CSS elements and commented changes
+   * Addition of alt attribute to images to meet accessibility standards
 
 ## Tools Utilized
 
