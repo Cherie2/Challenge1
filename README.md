@@ -1,7 +1,7 @@
 # Horiseon Social Solution Services-C01
 
 ## Motivation
-The motivation for this project is to improve upon a website that had a few bugs needing revision and required accessibility additions. The websites primary goal is to inform potential customers of the expertise of Horiseon Social Solution Services, Inc. The user will be able to clearly and concisely locate pertinent information for how Horiseon Social Solutions Services provides its clients' companies with improved marketability to reach target customers. 
+The motivation for this project is to improve upon a website that had a few bugs needing revision and required accessibility additions. The website's primary goal is to inform potential customers of the expertise of Horiseon Social Solution Services, Inc to all audiences. The user will be able to clearly and concisely locate pertinent information about the company's services.
 
 In completeing this project, I have learned how to improve upon code in HTML as far as following proper semantic structure, adding accessibility attributes, and organizing elements within CSS to run more efficiently.
 
@@ -9,7 +9,7 @@ In completeing this project, I have learned how to improve upon code in HTML as 
 
 https://cherie2.github.io/Challenge1/
 
-## Applications Utilized
+## Tools Utilized
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 

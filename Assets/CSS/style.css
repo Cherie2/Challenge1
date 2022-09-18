@@ -8,14 +8,14 @@
 body {
     background-color: #d9dcd6;
 }
-/*class that dictates header's placement, font style, font color, and background color in header*/
+/*class that selects header's placement, font style, font color, and background color in header*/
 .header  {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-/*class that selects headers(h1) font size and nav elements within to display inline*/ 
+/*class that selects headers(h1) font size and to display style*/ 
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -50,12 +50,11 @@ a:hover {
 p {
     font-size: 20px;
 }
-/*class that selects dimensions of digital marketing background image(figure)*/
+/*class that selects dimensions of digital marketing background image*/
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -70,18 +69,18 @@ p {
     float: left;
     margin-right: 32px;
 }
-/*class that selects text placement next to image in online reputation box*/
+/*class that selects text placement next next to image in online reputation box*/
 .float-right {
     float: right;
     margin-left: 32px;
 }
-/*class that selects font size and margin underneath main sections box headers*/
-h2 {
+/*class that selects (h2)font size and margin underneath main sections box headers*/
+.box h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 /*class that selects height of main sections box imgs*/
-img {
+.box img {
     max-height: 200px;
 }
 /*class that selects text color and font style within main section boxes; also selects main section boxes' height, padding, background color and margin underneath box*/
