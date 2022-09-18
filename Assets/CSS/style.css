@@ -50,7 +50,7 @@ a:hover {
 p {
     font-size: 20px;
 }
-/*class that selects dimensions of digital marketing background image*/
+/*class that selects dimensions of digital marketing background image, put background img link in img tag of index*/
 .hero {
     height: 800px;
     width: 100%;
@@ -74,12 +74,12 @@ p {
     float: right;
     margin-left: 32px;
 }
-/*class that selects (h2)font size and margin underneath main sections box headers*/
+/*class that selects (h2)font size and margin underneath main sections box headers, condensed h2 elements*/
 .box h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/*class that selects height of main sections box imgs*/
+/*class that selects height of main sections box imgs, condensed box class img elements*/
 .box img {
     max-height: 200px;
 }
@@ -103,17 +103,17 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*class that selects text color and margin at bottom of section of each paragraph section in aside*/
+/*class that selects text color and margin at bottom of section of each paragraph section in aside, condensed aside element*/
 .benefit {
     margin-bottom: 40px;
     color: #ffffff;
 }
-/*class that selects header(h3) text placement and margin underneath the headers in aside*/
-h3 {
+/*class that selects header(h3) text placement and margin underneath the headers in aside, condensed class benefit h3 elements*/
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/*class that selects display style, width size, and margin for the imgs in aside*/
+/*class that selects display style, width size, and margin for the imgs in aside, condensed aside img elements*/
 .benefit img {
     display: block;
     margin: 10px auto;
