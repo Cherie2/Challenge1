@@ -42,7 +42,7 @@ body {
 a { color: #ffffff;
     text-decoration: none;
 }
-/*class that allows anchored items to change color when mouse hovers over it*/
+/*class that allows anchored items to change color when mouse hovers over it, added for styling purposes*/
 a:hover {
     color: #d9dcd6;
 }

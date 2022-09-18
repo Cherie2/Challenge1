@@ -7,7 +7,11 @@ In completeing this project, I have learned how to improve upon code in HTML as 
 
 ![Horiseon website](./Assets/images/_C__Users_cwalk_bootcamp_First-day_index.html.png)
 
-https://cherie2.github.io/Challenge1/
+
+## Changes
+   *Revised index.html file to follow proper semantic structure
+   *Revised redundant CSS elements and commented changes
+   *Addition of alt attribute to images to meet accessibility standards
 
 ## Tools Utilized
 
@@ -19,7 +23,8 @@ https://cherie2.github.io/Challenge1/
 
 ## Installation
 
-This website needs just a browser to be accessed. Link provided under screenshot.
+This website needs just a browser to be accessed. 
+Link provided here https://cherie2.github.io/Challenge1/ 
 
 ## Usage
 
