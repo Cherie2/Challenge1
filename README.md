@@ -1,7 +1,7 @@
 # Horiseon Social Solution Services-C01
 
 ## Motivation
-The motivation for this project is to improve upon a website that had a few bugs needing revision and required accessibility additions. The website's primary goal is to inform potential customers of the expertise of Horiseon Social Solution Services, Inc to all audiences. The user will be able to clearly and concisely locate pertinent information about the company's services.
+The motivation for this project is to improve upon a website with a few bugs needing revision and requiring accessibility additions. The website's primary goal is to inform potential customers of the expertise of Horiseon Social Solution Services, Inc to all audiences. Once all tasks have been accomplished, the user will be able to clearly and concisely locate pertinent information about the company's services.
 
 In completeing this project, I have learned how to improve upon code in HTML as far as following proper semantic structure, adding accessibility attributes, and organizing elements within CSS to run more efficiently.
 
